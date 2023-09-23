@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/bmpFIles"/>
+    <qresource prefix="/">
+        <file>recursos/bocaboca.png</file>
+        <file>recursos/blue_ball.bmp</file>
+        <file>recursos/play-button.png</file>
+        <file>recursos/stop.png</file>
+        <file>recursos/trajectory.png</file>
+        <file>recursos/german_ball.bmp</file>
+        <file>recursos/Boca_escudo.png</file>
+    </qresource>
+</RCC>
